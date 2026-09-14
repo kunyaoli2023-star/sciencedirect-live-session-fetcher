@@ -275,6 +275,7 @@ python3 ./scripts/firefox_sciencedirect_serial_fetch.py \
 
 - [Workflow](./docs/workflow.md)
 - [Troubleshooting](./docs/troubleshooting.md)
+- [Codex 使用说明](./docs/codex-usage.zh-CN.md)
 
 ## AIC 综述专用 skill
 

@@ -200,6 +200,7 @@ Each run writes:
 
 - [Workflow](./docs/workflow.md)
 - [Troubleshooting](./docs/troubleshooting.md)
+- [Codex usage guide (中文)](./docs/codex-usage.zh-CN.md)
 
 ## AIC review skill
 
