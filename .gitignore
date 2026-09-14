@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.codex_deps/
+runtime/
+out/
+dist/
+*.log
+*.tmp
+subscription_runs/
+pdfs/
+browser_test/
+browser_subscription_run/
+*.part
+*.crdownload
+*.partial
+Thumbs.db

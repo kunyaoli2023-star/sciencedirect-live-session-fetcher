@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIC Review Live Session Fetcher"
+  short_description: "Download authorized AIC PDFs with validation"
+  default_prompt: "Use $aic-review-live-session-fetcher to download Automation in Construction papers through my lawful browser session."
